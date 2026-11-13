@@ -1,0 +1,10 @@
+# Datos de la cartera: nunca al repo (es público)
+cartera/
+*.cartera.*
+
+# Entornos y secretos
+.env
+.env.*
+
+# Sistema
+.DS_Store
